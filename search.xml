@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>Hello Worl</title>
+      <title>Hello World</title>
       <link href="/2023/08/22/hello-world/"/>
       <url>/2023/08/22/hello-world/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br></pre></td></tr></table></figure><p><strong>23年8月22日记</strong></p>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br></pre></td></tr></table></figure><p><strong>23年8月22日记</strong></p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p><p>a</p>]]></content>
       
       
       
