@@ -8,8 +8,14 @@
 
 
 
-<u>其他博客主题</u>
+<u>其他博客主题</u>：
 
 极简主题：catctus [cactus: A responsive, clean and simple theme for Hexo](https://github.com/probberechts/hexo-theme-cactus)
 
 Material Design 风格的主题 :[ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo](https://github.com/fluid-dev/hexo-theme-fluid)
+
+
+
+未成功配置的主题：
+
+lite：[HeskeyBaozi/hexo-theme-lite: Keep Calm, Light and Writing. Light Hexo Theme. (github.com)](https://github.com/HeskeyBaozi/hexo-theme-lite)
