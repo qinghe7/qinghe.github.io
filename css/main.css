@@ -1196,7 +1196,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #289cff;
+  background: #ff0eaa;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2423,6 +2423,9 @@ hr {
 }
 .sub-menu .menu-item {
   display: inline-block;
+}
+:root {
+  --content-bg-color: rgba(255,255,255,0.902);
 }
 body {
   background: url("/images/background.png");
